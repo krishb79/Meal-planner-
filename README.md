@@ -1,1 +1,1 @@
-insex.html
+index.html
